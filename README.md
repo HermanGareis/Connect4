@@ -1,5 +1,5 @@
 # Connect4
-Connect 4 programmed in python
+Connect 4 programmed in python with AI. 
 
 There is a 2 player version of the game and a version that includes an IA implementing the minimax algorithm
 
